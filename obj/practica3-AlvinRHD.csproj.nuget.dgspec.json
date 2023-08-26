@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\practica3-AlvinRHD.csproj": {}
+    "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\practica3-AlvinRHD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\practica3-AlvinRHD.csproj": {
+    "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\practica3-AlvinRHD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\practica3-AlvinRHD.csproj",
+        "projectUniqueName": "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\practica3-AlvinRHD.csproj",
         "projectName": "practica3-AlvinRHD",
-        "projectPath": "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\practica3-AlvinRHD.csproj",
+        "projectPath": "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\practica3-AlvinRHD.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\obj\\",
+        "outputPath": "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\Repositorio_Practicas\\practica3-AlvinRHD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config"
